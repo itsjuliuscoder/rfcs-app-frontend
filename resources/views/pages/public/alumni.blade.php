@@ -15,7 +15,7 @@
     <div class="container text-center">
         <h2>RFCS Alumni Community</h2>
         <p>Become a part of our RFCS Alumni Community. Register now and reconnect with old friends in our community</p>
-        <a href="#" class="btn btn-lg btn-success pt-2">Join Now!</a>
+        <a href="https://forms.gle/wgJ7XMQAjumRM9Wq8" target="_blank" class="btn btn-lg btn-success pt-2">Join Now!</a>
     </div>
 </div>
 <!-- page-banner-section

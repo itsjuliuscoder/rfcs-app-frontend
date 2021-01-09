@@ -20,7 +20,7 @@
                 <ul>
                     <li data-index="rs-672" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="upload/slider/slider-image-1.jpg" data-rotate="0" data-saveperformance="off" data-title="unique" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/banner.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211997/rfcs/banner_vbqptn.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -150,7 +150,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-673" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="upload/slider/slider-image-2.jpg" data-rotate="0" data-saveperformance="off" data-title="ideas" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/bg3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212015/rfcs/bg3_f5m6cs.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -280,7 +280,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-674" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="upload/slider/slider-image-3.jpg" data-rotate="0" data-saveperformance="off" data-title="ideas" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/bg19.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212131/rfcs/bg19_vb0tbp.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -410,7 +410,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-675" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="upload/slider/slider-image-4.jpg" data-rotate="0" data-saveperformance="off" data-title="ideas" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/bg22.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212123/rfcs/bg22_uyfy1a.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 -->
@@ -566,7 +566,7 @@
                     </div>
                     <div class="col-lg-5 col-md-6">
                         <div class="feature-post">
-                            <img src="images/bg35.jpg" class="img-fluid" alt="">
+                            <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212239/rfcs/bg35_o2y3bu.jpg" class="img-fluid" alt="">
                         </div>
                     </div>
                 </div>
@@ -663,7 +663,7 @@
                     <div class="col-lg-8 col-md-12">
                         <div class="collection-post">
                             <div class="inner-collection">
-                                <img src="images/bg36.jpg" class="img-fluid" style="width:100% !important;" alt="">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212370/rfcs/bg36_svm9zn.jpg" class="img-fluid" style="width:100% !important;" alt="">
                                 <a href="#" class="hover-post">
                                     <span class="title">Creativity</span>
                                     <span class="numb-courses">3 Courses</span>
@@ -674,7 +674,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="collection-post">
                             <div class="inner-collection">
-                                <img src="images/bg24.jpg" class="img-fluid" style="height: 300px;" alt="">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212162/rfcs/bg24_zmd0gv.jpg" class="img-fluid" style="height: 300px;" alt="">
                                 <a href="#" class="hover-post">
                                     <span class="title">Web Design</span>
                                     <span class="numb-courses">2 Courses</span>
@@ -683,7 +683,7 @@
                         </div>
                         <div class="collection-post">
                             <div class="inner-collection">
-                                <img src="images/bg23.jpg" class="img-fluid" style="height: 300px;" alt="">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212180/rfcs/bg23_rfzhsm.jpg" class="img-fluid" style="height: 300px;" alt="">
                                 <a href="#" class="hover-post">
                                     <span class="title">Technology</span>
                                     <span class="numb-courses">3 Courses</span>
@@ -741,7 +741,7 @@
                         <div class="course-post">
                             <div class="course-thumbnail-holder">
                                 <a href="single-course.html">
-                                    <img src="images/bg28.jpg" class="img-fluid" alt="">
+                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212192/rfcs/bg28_jirroj.jpg" class="img-fluid" alt="">
                                 </a>
                             </div>
                             <div class="course-content-holder">
@@ -776,7 +776,7 @@
                         <div class="course-post">
                             <div class="course-thumbnail-holder">
                                 <a href="single-course.html">
-                                    <img src="images/bg26.jpg" class="img-fluid" alt="">
+                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212192/rfcs/bg26_po8kov.jpg" class="img-fluid" alt="">
                                 </a>
                             </div>
                             <div class="course-content-holder">
@@ -811,7 +811,7 @@
                         <div class="course-post">
                             <div class="course-thumbnail-holder">
                                 <a href="single-course.html">
-                                    <img src="images/bg33.jpg" alt="">
+                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212286/rfcs/bg33_zvo9bp.jpg" alt="">
                                 </a>
                             </div>
                             <div class="course-content-holder">

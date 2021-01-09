@@ -31,7 +31,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="teacher-post">
                         <a href="single-teacher.html">
-                            <img src="images/admin-1.jpg" alt="" class="img-fluid" style="height: 350px !important;">
+                            <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212022/rfcs/admin-1_k9xt32.jpg" alt="" class="img-fluid" style="height: 350px !important;">
                             <div class="hover-post">
                                 <h2>Abigael Olajumoke</h2>
                                 <span>Executive Director/Proprietress</span>
@@ -42,7 +42,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="teacher-post">
                         <a href="single-teacher.html">
-                            <img src="images/admin-2.jpg" alt="" class="img-fluid" style="height: 350px !important;">
+                            <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211967/rfcs/admin-2_ifz5qx.jpg" alt="" class="img-fluid" style="height: 350px !important;">
                             <div class="hover-post">
                                 <h2>Simeon Olajumoke</h2>
                                 <span>Executive Director/Proprietor</span>
@@ -53,7 +53,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="teacher-post">
                         <a href="single-teacher.html">
-                            <img src="images/admin-3.jpg" alt="" class="img-fluid" style="height: 350px !important;">
+                            <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211979/rfcs/admin-3_u0yi6q.jpg" alt="" class="img-fluid" style="height: 350px !important;">
                             <div class="hover-post">
                                 <h2>Christy</h2>
                                 <span>Head Teacher/Supervisor</span>
@@ -64,7 +64,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="teacher-post">
                         <a href="single-teacher.html">
-                            <img src="images/admin-4.jpg" alt="" style="height: 350px !important;">
+                            <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211947/rfcs/admin-4_k99mkl.jpg" alt="" style="height: 350px !important;">
                             <div class="hover-post">
                                 <h2>Odunukwe </h2>
                                 <span>Head Teacher/Supervisor</span>

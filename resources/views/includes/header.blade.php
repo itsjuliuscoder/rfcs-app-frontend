@@ -47,7 +47,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="drop-link">
-                            <a class="active" href="/">Home</a>
+                            <a class="" href="/">Home</a>
                         </li>
                         <li class="drop-link">
                             <a href="about.html">Discover<i class="fa fa-angle-down"></i></a>

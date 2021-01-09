@@ -71,26 +71,13 @@
 
                         <div class="line-details">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <div class="detail-item">
-                                        <div class="icon-holder">
-                                            <i class="fa fa-skype"></i>
-                                        </div>
-                                        <div class="detail-content">
-                                            <h2>Skype:</h2>
-                                            <span>michael.studiare</span>
-                                        </div>
+                                <div class="detail-item">
+                                    <div class="icon-holder">
+                                        <i class="fa fa-mobile"></i>
                                     </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="detail-item">
-                                        <div class="icon-holder">
-                                            <i class="fa fa-mobile"></i>
-                                        </div>
-                                        <div class="detail-content">
-                                            <h2>Phone:</h2>
-                                            <span>+234 8034331199</span>
-                                        </div>
+                                    <div class="detail-content">
+                                        <h2>Phone:</h2>
+                                        <span>+234 8034331199</span>
                                     </div>
                                 </div>
                             </div>

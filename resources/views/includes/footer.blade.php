@@ -7,7 +7,7 @@
                         <div class="footer-widget text-widget">
                             <h2>RIGHT FOUNDATION CHILDREN SCHOOL</h2>
                             <!-- <a href="index.html" class="footer-logo"><img src="images/logo_light.svg" alt=""></a> -->
-                            <p>We named our theme Studiare because to us,<br> the best brands are simple ones. Brands thrive<br> on their ability to be understood.</p>
+                            <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide nursery and basic education to children from ages 2 years(tender class) to 12 years(grade 6).</p>
                             <ul>
                                 <li>
                                     <div class="contact-info-icon">

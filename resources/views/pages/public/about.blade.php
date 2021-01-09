@@ -31,7 +31,7 @@
         <div class="about-article">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="images/banner.jpg" class="img-fluid" style="height: 440px;" alt="">
+                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211997/rfcs/banner_vbqptn.jpg" class="img-fluid" style="height: 440px;" alt="">
                 </div>
                 <div class="col-lg-6">
                     <div class="article-content">
@@ -84,28 +84,22 @@
     <div class="container">
         <div class="statistic-box">
             <div class="row">
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-12">
                     <div class="statistic-post">
-                        <span class="timer" data-from="0" data-to="321"></span>
-                        <p>cases <br> completed</p>
+                        <span class="timer" data-from="0" data-to="350"></span>
+                        <p>Graduated <br>Pupils </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-12">
                     <div class="statistic-post">
-                        <span class="timer" data-from="0" data-to="200"></span>
-                        <p>cases <br> completed</p>
+                        <span class="timer" data-from="0" data-to="20"></span>
+                        <p>Years<br> Experience</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-12">
                     <div class="statistic-post">
-                        <span class="timer" data-from="0" data-to="135"></span>
-                        <p>cases <br> completed</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="statistic-post">
-                        <span class="timer" data-from="0" data-to="28"></span>
-                        <p>cases <br> completed</p>
+                        <span class="timer" data-from="0" data-to="23"></span><br>
+                        <p>Dedicated <br>Staffs</p>
                     </div>
                 </div>
             </div>
