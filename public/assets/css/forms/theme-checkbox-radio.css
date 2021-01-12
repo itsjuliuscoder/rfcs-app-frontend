@@ -74,13 +74,13 @@
   color: #888ea8; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-primary > input:checked ~ span.new-chk-content, .new-control.new-checkbox.new-checkbox-text.checkbox-outline-primary > input:checked ~ span.new-chk-content {
-  color: #1b55e2; }
+  color: #135f06; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-success > input:checked ~ span.new-chk-content, .new-control.new-checkbox.new-checkbox-text.checkbox-outline-success > input:checked ~ span.new-chk-content {
   color: #8dbf42; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-info > input:checked ~ span.new-chk-content, .new-control.new-checkbox.new-checkbox-text.checkbox-outline-info > input:checked ~ span.new-chk-content {
-  color: #2196f3; }
+  color: #135f06; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-warning > input:checked ~ span.new-chk-content, .new-control.new-checkbox.new-checkbox-text.checkbox-outline-warning > input:checked ~ span.new-chk-content {
   color: #e2a03f; }
@@ -95,7 +95,7 @@
   color: #3b3f5c; }
 
 .new-control.new-checkbox.checkbox-primary > input:checked ~ span.new-control-indicator {
-  background: #1b55e2; }
+  background: #135f06; }
 
 .new-control.new-checkbox.checkbox-success > input:checked ~ span.new-control-indicator {
   background: #8dbf42; }

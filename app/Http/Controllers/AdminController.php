@@ -42,6 +42,48 @@ class AdminController extends Controller
         return view('pages.admin.add-student')->with(['title'=> $title, 'description'=>$description]);
     }
 
+    //process for creating student
+    public function create_user(Request $request)   {
+
+        $formData = $request->validate([
+            'fullname' => 'required',
+            'email' => 'required|email',
+            'password' => 'required|confirmed',
+        ]);
+
+        //
+        $formData['confirmPassword'] = $request->input('password_confirmation');
+
+        $requestResult = $this->sendPost('auth/register', $formData);
+
+        //var_dump($requestResult);
+
+        if (is_null($requestResult)) {
+
+            if(isset($this->getPostErr->err)){
+                $error = $this->getPostErr->err;
+            }
+            elseif(isset($this->getPostErr->message)){
+                $error = $this->getPostErr->message;
+            }
+
+            return redirect()->back()->with('failed', $error)->withInput($request->input());
+
+        }
+
+        $body = json_decode((string) $requestResult->getBody(), true);
+
+        //var_dump($requestResult);
+        if($requestResult->getStatusCode() != 200){
+            return back()->with('failed', 'Something with wrong:unable to create user.')->withInput($request());
+        }
+
+        $confirm = $body['message'];
+
+        return redirect('confirm-email')->with(['confirm' => $confirm]);
+
+    }
+
     public function create_teacher(){
         $title = 'Create Teacher - Admin Management for RFCS';
         $description = '';

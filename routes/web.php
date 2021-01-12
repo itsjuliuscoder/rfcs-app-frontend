@@ -44,6 +44,8 @@ Route::get('/lesson', 'VLEController@lesson')->name('vle.lesson');
 Route::get('/profile', 'VLEController@profile')->name('vle.profile');
 Route::get('/user_guide', 'VLEController@user_guide')->name('vle.user_guide');
 Route::get('/feedback', 'VLEController@feedback')->name('vle.feedback');
+Route::get('/get_all_subjects', 'VLEController@get_all_subjects')->name('get.subjects');
+Route::post('/authenticate', 'VLEController@authenticate')->name('login.process');
 
 
 /*----- ROUTES FOR ADMIN ------*/

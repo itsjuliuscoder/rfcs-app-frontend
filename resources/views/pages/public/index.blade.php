@@ -845,7 +845,7 @@
                         <div class="course-post">
                             <div class="course-thumbnail-holder">
                                 <a href="single-course.html">
-                                    <img src="upload/courses/4.jpg" alt="">
+                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610441490/rfcs/Website_Launch_Rocketship_Google_Photo_neeudm.jpg" alt="">
                                 </a>
                             </div>
                             <div class="course-content-holder">

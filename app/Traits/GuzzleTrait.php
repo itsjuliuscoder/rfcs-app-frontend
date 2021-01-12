@@ -26,8 +26,7 @@ trait GuzzleTrait
      ]); //GuzzleHttp\Client
   }
 
-  public function initToken()
-  {
+  public function initToken(){
     if(isset($_COOKIE['token'])){
       $this->accessToken = $_COOKIE['token'];
     }
@@ -36,9 +35,9 @@ trait GuzzleTrait
   /**
    * Post Request without Authorization
    */
-  public function sendPost($url, $formData)
-  {
+  public function sendPost($url, $formData){
        //attempt API authentication
+
        try {
            $result = $this->gClient->request('POST', $url, [
                 'json' => $formData
