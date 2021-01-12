@@ -759,15 +759,6 @@
                                         <a href="#" class="course-loop-teacher">Duha Samra</a>
                                     </div>
                                 </div>
-                                <div class="course-content-bottom">
-                                    <div class="course-students">
-                                        <i class="material-icons">group</i>
-                                        <span>64</span>
-                                    </div>
-                                    <div class="course-price">
-                                        <span>£244</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -792,15 +783,6 @@
                                             </span>
                                         </div>
                                         <a href="#" class="course-loop-teacher">Leon Redding</a>
-                                    </div>
-                                </div>
-                                <div class="course-content-bottom">
-                                    <div class="course-students">
-                                        <i class="material-icons">group</i>
-                                        <span>134</span>
-                                    </div>
-                                    <div class="course-price">
-                                        <span>£74.99</span>
                                     </div>
                                 </div>
                             </div>
@@ -828,15 +810,6 @@
                                         <a href="#" class="course-loop-teacher">Linda Castello</a>
                                     </div>
                                 </div>
-                                <div class="course-content-bottom">
-                                    <div class="course-students">
-                                        <i class="material-icons">group</i>
-                                        <span>0</span>
-                                    </div>
-                                    <div class="course-price">
-                                        <span>£18.99</span>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -845,7 +818,7 @@
                         <div class="course-post">
                             <div class="course-thumbnail-holder">
                                 <a href="single-course.html">
-                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610441490/rfcs/Website_Launch_Rocketship_Google_Photo_neeudm.jpg" alt="">
+                                    <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610441490/rfcs/Website_Launch_Rocketship_Google_Photo_neeudm.jpg" style="height: 185px !important;" alt="">
                                 </a>
                             </div>
                             <div class="course-content-holder">
@@ -861,15 +834,6 @@
                                             </span>
                                         </div>
                                         <a href="#" class="course-loop-teacher">Michael Arnett</a>
-                                    </div>
-                                </div>
-                                <div class="course-content-bottom">
-                                    <div class="course-students">
-                                        <i class="material-icons">group</i>
-                                        <span>263</span>
-                                    </div>
-                                    <div class="course-price">
-                                        <span>£29.99</span>
                                     </div>
                                 </div>
                             </div>
