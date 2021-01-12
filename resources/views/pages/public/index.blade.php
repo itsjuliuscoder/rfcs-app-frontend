@@ -902,8 +902,8 @@
                                 <div class="top-part">
                                     <div class="date-holder">
                                         <div class="date">
-                                            <span class="date-day">22</span>
-                                            <span class="date-month">Oct</span>
+                                            <span class="date-day">18</span>
+                                            <span class="date-month">Jan</span>
                                         </div>
                                     </div>
                                     <div class="content">
@@ -912,58 +912,10 @@
                                                 <i class="material-icons">access_time</i> 6:00 am - 12:00 pm
                                             </span>
                                             <span class="event-meta-piece location">
-                                                <i class="material-icons">location_on</i> New York , US of America
+                                                <i class="material-icons">location_on</i> School Premises
                                             </span>
                                         </div>
-                                        <h2 class="title"><a href="#">Summer High School Journalism Camp Registration Form</a></h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="events-post">
-                            <div class="event-inner-content">
-                                <div class="top-part">
-                                    <div class="date-holder">
-                                        <div class="date">
-                                            <span class="date-day">14</span>
-                                            <span class="date-month">Dec</span>
-                                        </div>
-                                    </div>
-                                    <div class="content">
-                                        <div class="event-meta">
-                                            <span class="event-meta-piece start-time">
-                                                <i class="material-icons">access_time</i> 2:00 am - 5:00 am
-                                            </span>
-                                            <span class="event-meta-piece location">
-                                                <i class="material-icons">location_on</i> New York , US of America
-                                            </span>
-                                        </div>
-                                        <h2 class="title"><a href="#">Board of Regents Campus Live and Community Forum</a></h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="events-post">
-                            <div class="event-inner-content">
-                                <div class="top-part">
-                                    <div class="date-holder">
-                                        <div class="date">
-                                            <span class="date-day">17</span>
-                                            <span class="date-month">Dec</span>
-                                        </div>
-                                    </div>
-                                    <div class="content">
-                                        <div class="event-meta">
-                                            <span class="event-meta-piece start-time">
-                                                <i class="material-icons">access_time</i> 2:00 am - 8:00 am
-                                            </span>
-                                            <span class="event-meta-piece location">
-                                                <i class="material-icons">location_on</i> New York , US of America
-                                            </span>
-                                        </div>
-                                        <h2 class="title"><a href="#">May Professional Development Diversity and Inclusion Series</a></h2>
+                                        <h2 class="title"><a href="#">School Resumption</a></h2>
                                     </div>
                                 </div>
                             </div>
