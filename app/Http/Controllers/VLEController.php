@@ -100,6 +100,8 @@ class VLEController extends Controller
         $title = 'Welcome Julius - RFCS Virtual Learning Environment';
         $description = '';
 
+
+
         return view('pages.vle.home')->with(['title'=> $title, 'description'=>$description]);
     }
 
@@ -116,9 +118,14 @@ class VLEController extends Controller
 
         $body = $requestResult->getStatusCode();
 
-        $response = json_decode((string) $requestResult->getBody()->getContents(), true);
+        $subjects = json_decode((string) $requestResult->getBody()->getContents(), true);
 
-        var_dump($response); exit();
+        // Checks if the requestResult is not equal to 200
+        if($requestResult->getStatusCode() != 200){
+            return response()->json(['error'=>'Unable to get subjects', 'status' => $requestResult->getStatusCode()]);
+        } else {
+            return $subjects;
+        }
 
     }
 

@@ -1966,7 +1966,14 @@ section.testimonial-section {
 
 @media (max-width: 640px) {
   .comments-holder .comment-list li ul.depth-comment {
-    margin-left: 0; } }
+    margin-left: 0; }
+    .alumni-banner {
+        padding: 3em !important;
+    }
+    .alumni-banner h2 {
+        line-height: 42px;
+    }
+ }
 
 /*------------------------------------------------- */
 /* =  teachers section */
