@@ -11,6 +11,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
+use App\Http\Controllers\Auth;
 use App\Traits\GuzzleTrait;
 use Illuminate\Http\Request;
 
@@ -25,6 +26,7 @@ class VLEController extends Controller
         $this->initGuzzle();
 
     }
+
     //
     public function login(){
         $title = 'Login - RFCS Virtual Learning Environment';
@@ -33,23 +35,15 @@ class VLEController extends Controller
         return view('pages.vle.login')->with(['title'=> $title, 'description'=>$description]);
     }
 
+
     public function authenticate(Request $request) {
 
         $formData = $request->validate([
           'email' => 'required|email',
           'password' => 'required',
-
         ]);
 
-        //dd($formData); exit();
-
-
         $requestResult = $this->sendPost('login', $formData);
-
-        //$code = $requestResult->getStatusCode();
-
-        //dd($code); exit();
-
 
         if(is_null($requestResult)){
           //remove authenticated, user and token from session
@@ -97,11 +91,9 @@ class VLEController extends Controller
             //   var_dump($this->profile_img);
             //   return redirect('publisher/home');
 
-        }
-        else {
+        } else {
           return redirect()->back()->with('error','Something went wrong, TRY AGAIN');
         }
-
     }
 
     public function home(){
@@ -157,8 +149,5 @@ class VLEController extends Controller
 
         return view('pages.vle.profile')->with(['title'=> $title, 'description'=>$description]);
     }
-
-
-
 
 }

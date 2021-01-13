@@ -57,8 +57,9 @@ Route::get('/admin/create-students', 'AdminController@create_student')->name('ad
 Route::get('/admin/create-teachers', 'AdminController@create_teacher')->name('admin.create.teachers');
 Route::get('/admin/add-lesson', 'AdminController@add_lesson')->name('admin.add.lesson');
 Route::get('/admin/add-subject', 'AdminController@add_subject')->name('admin.add.subject');
-Route::post('/login_admin', 'AdminController@authenticate')->name('login_admin');
-Route::post('/login', 'Auth\AdminLoginController@login')->name('admin.login.submit');
+//Route::post('/authenticate', 'AdminController@authenticate')->name('login.admin');
+//Route::post('/login', 'Auth\AdminLoginController@login')->name('admin.login.submit');
+
 // Route::get('/vle-login', 'VLEController@home');
 // Route::get('/vle-login', 'VLEController@login');
 // Route::get('/vle-login', 'VLEController@home');

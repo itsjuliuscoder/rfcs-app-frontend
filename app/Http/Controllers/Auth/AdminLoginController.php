@@ -3,12 +3,15 @@
 namespace App\Http\Controllers\Auth;
 
 use Illuminate\Http\Request;
+use App\Traits\GuzzleTrait;
 use App\Http\Controllers\Controller;
 use Auth;
 use Route;
 
 class AdminLoginController extends Controller
 {
+
+    use GuzzleTrait;
     //
     public function __construct()
     {
@@ -44,4 +47,5 @@ class AdminLoginController extends Controller
         Auth::guard('admin')->logout();
         return redirect('/admin');
     }
+
 }

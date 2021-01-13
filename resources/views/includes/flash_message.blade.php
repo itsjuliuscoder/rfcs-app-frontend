@@ -7,9 +7,10 @@
 
 
 @if ($message = Session::get('failed'))
-<div class="alert alert-danger alert-block animated fadeInDown">
-	<button type="button" class="close" data-dismiss="alert">×</button>
-        <strong>{{ $message }}</strong>
+<div class="alert alert-arrow-right alert-icon-right alert-light-primary mb-4" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><svg> ... </svg></button>
+    <svg> ... </svg>
+    <strong>Warning!</strong> {{ $message }}
 </div>
 @endif
 

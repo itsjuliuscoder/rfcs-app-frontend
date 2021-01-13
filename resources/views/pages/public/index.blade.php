@@ -557,7 +557,26 @@
                             <div class="left-part">
                                 <span>Welcome to RFCS</span>
                                 <h1 style="font-weight: bolder !important;">RIGHT FOUNDATION CHILDREN SCHOOL</h1>
-                                <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide nursery and basic education to children from ages 2 years(tender class) to 12 years(grade 6). The school is blessed with season professional teachers under the leadership of Mrs. Abigael Olajumoke a graduate of University of Lagos with Bachelor in Education(Guidance and Counselling)/Economics.</p>
+                                <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide nursery and basic education to children from ages 2 years(tender class) to 12 years(grade 6). The school is blessed with season professional teachers under the leadership of Mrs. Abigael Olajumoke a graduate of University of Lagos with Bachelor in Education(Guidance and Counselling)/Economics.</p><br><br><br><br><br>
+                                <div class="statistic-post text-center" style="font-size:18px;">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <span style="font-size:42px; color: #135f06;" class="fa fa-users"></span><br>
+                                            <span style="font-size:32px; color: #135f06;" class="timer" data-from="0" data-to="800"></span>
+                                            <p>Graduated <br>Pupils </p>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <span style="font-size:42px; color: #135f06;" class="fa fa-calendar-times-o"></span><br>
+                                            <span style="font-size:32px; color: #135f06;" class="timer" data-from="0" data-to="21"></span>
+                                            <p>Years <br>Experience </p>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <span style="font-size:42px; color: #135f06;" class="fa fa-user-circle-o"></span><br>
+                                            <span style="font-size:32px; color: #135f06;" class="timer" data-from="0" data-to="25"></span>
+                                            <p>Dedicated <br>Staff </p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="feature-post">
@@ -574,153 +593,6 @@
         </div>
     </section>
 <!-- End feature section -->
-
-<!-- news-section
-    ================================================== -->
-    <section class="news-section">
-        <div class="container">
-            <div class="title-section">
-                <div class="left-part">
-                    <span>Blog</span>
-                    <h1>Latest News</h1>
-                </div>
-                <div class="right-part">
-                    <a class="button-one" href="#">View All Posts</a>
-                </div>
-            </div>
-            <div class="news-box">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="blog-post">
-                            <a href="single-post.html"><img src="images/bg4.jpg" alt=""></a>
-                            <div class="post-content">
-                                <a class="category" href="#">Academics</a>
-                                <h2><a href="single-post.html">Couple Of Happy College Students Graduated</a></h2>
-                                <div class="post-meta date">
-                                    <i class="material-icons">access_time</i> June 13, 2018
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="blog-post">
-                            <a href="single-post.html"><img src="images/bg4.jpg" alt=""></a>
-                            <div class="post-content">
-                                <a class="category" href="#">Government</a>
-                                <h2><a href="single-post.html">Tips to Developing a Quality Discussion</a></h2>
-                                <div class="post-meta date">
-                                    <i class="material-icons">access_time</i> June 13, 2018
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="blog-post">
-                            <a href="single-post.html"><img src="images/bg5.jpg" alt=""></a>
-                            <div class="post-content">
-                                <a class="category" href="#">Design</a>
-                                <h2><a href="single-post.html">Reflections for the Season of Advent</a></h2>
-                                <div class="post-meta date">
-                                    <i class="material-icons">access_time</i> June 13, 2018
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="blog-post">
-                            <a href="single-post.html"><img src="images/bg12.jpg" alt=""></a>
-                            <div class="post-content">
-                                <a class="category" href="#">Business</a>
-                                <h2><a href="single-post.html">It’s Wonderful to see the Friendships that Develop</a></h2>
-                                <div class="post-meta date">
-                                    <i class="material-icons">access_time</i> June 13, 2018
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-<!-- End news section -->
-
-<!-- collection-section
-			================================================== -->
-    <section class="collection-section">
-        <div class="container">
-            <div class="title-section">
-                <div class="left-part">
-                    <span>Categories</span>
-                    <h1>Trending Collection</h1>
-                </div>
-                <div class="right-part">
-                    <a class="button-one" href="#">View All Courses</a>
-                </div>
-            </div>
-            <div class="collection-box">
-                <div class="row">
-                    <div class="col-lg-8 col-md-12">
-                        <div class="collection-post">
-                            <div class="inner-collection">
-                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212370/rfcs/bg36_svm9zn.jpg" class="img-fluid" style="width:100% !important;" alt="">
-                                <a href="#" class="hover-post">
-                                    <span class="title">Creativity</span>
-                                    <span class="numb-courses">3 Courses</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="collection-post">
-                            <div class="inner-collection">
-                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212162/rfcs/bg24_zmd0gv.jpg" class="img-fluid" style="height: 300px;" alt="">
-                                <a href="#" class="hover-post">
-                                    <span class="title">Web Design</span>
-                                    <span class="numb-courses">2 Courses</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="collection-post">
-                            <div class="inner-collection">
-                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212180/rfcs/bg23_rfzhsm.jpg" class="img-fluid" style="height: 300px;" alt="">
-                                <a href="#" class="hover-post">
-                                    <span class="title">Technology</span>
-                                    <span class="numb-courses">3 Courses</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-<!-- End collection section -->
-
-<!-- countdown-section
-    ================================================== -->
-    <section class="countdown-section">
-        <div class="container">
-            <div class="countdown-box">
-                <h1>Admission Form</h1>
-                <p>We offer professional SEO services that help websites increase their organic search score drastically in order to compete for the highest rankings.</p>
-                <a class="button-two" href="#">Download Admission</a>
-            </div>
-        </div>
-    </section>
-<!-- End countdown section -->
-
-<!-- -->
-<section class="quote">
-    <div class="container">
-        <div class="col-md-offset-4">
-            <h1>Education is the most powerful tool you can use to change the World</h1>
-        </div>
-    </div>
-</section>
-<!--// -->
-
 <!-- popular-courses-section
     ================================================== -->
     <section class="popular-courses-section">
@@ -730,9 +602,7 @@
                     <span>Education</span>
                     <h1>Enroll Your Child</h1>
                 </div>
-                <div class="right-part">
-                    <a class="button-one" href="#">View All Courses</a>
-                </div>
+
             </div>
             <div class="popular-courses-box">
                 <div class="row">
@@ -845,6 +715,150 @@
         </div>
     </section>
 <!-- End popular-courses section -->
+<!-- collection-section
+			================================================== -->
+    <section class="collection-section">
+        <div class="container">
+            <div class="title-section">
+                <div class="left-part">
+                    <span>Categories</span>
+                    <h1>Trending Collection</h1>
+                </div>
+                <div class="right-part">
+                    <a class="button-one" href="#">View All Courses</a>
+                </div>
+            </div>
+            <div class="collection-box">
+                <div class="row">
+                    <div class="col-lg-8 col-md-12">
+                        <div class="collection-post">
+                            <div class="inner-collection">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212370/rfcs/bg36_svm9zn.jpg" class="img-fluid" style="width:100% !important;" alt="">
+                                <a href="#" class="hover-post">
+                                    <span class="title">Creativity</span>
+                                    <span class="numb-courses">3 Courses</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="collection-post">
+                            <div class="inner-collection">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212162/rfcs/bg24_zmd0gv.jpg" class="img-fluid" style="height: 300px;" alt="">
+                                <a href="#" class="hover-post">
+                                    <span class="title">Web Design</span>
+                                    <span class="numb-courses">2 Courses</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="collection-post">
+                            <div class="inner-collection">
+                                <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610212180/rfcs/bg23_rfzhsm.jpg" class="img-fluid" style="height: 300px;" alt="">
+                                <a href="#" class="hover-post">
+                                    <span class="title">Technology</span>
+                                    <span class="numb-courses">3 Courses</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+<!-- End collection section -->
+
+<!-- countdown-section
+    ================================================== -->
+    <section class="countdown-section">
+        <div class="container">
+            <div class="countdown-box">
+                <h1>Admission Form</h1>
+                <p>We offer professional SEO services that help websites increase their organic search score drastically in order to compete for the highest rankings.</p>
+                <a class="button-two" href="#">Download Admission</a>
+            </div>
+        </div>
+    </section>
+<!-- End countdown section -->
+
+<!-- -->
+<section class="quote">
+    <div class="container">
+        <div class="col-md-offset-4">
+            <h1>Education is the most powerful tool you can use to change the World</h1>
+        </div>
+    </div>
+</section>
+<!--// -->
+<!-- news-section
+    ================================================== -->
+    <section class="news-section">
+        <div class="container">
+            <div class="title-section">
+                <div class="left-part">
+                    <span>Blog</span>
+                    <h1>Latest News</h1>
+                </div>
+                <div class="right-part">
+                    <a class="button-one" href="#">View All Posts</a>
+                </div>
+            </div>
+            <div class="news-box">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="blog-post">
+                            <a href="single-post.html"><img src="images/bg4.jpg" alt=""></a>
+                            <div class="post-content">
+                                <a class="category" href="#">Academics</a>
+                                <h2><a href="single-post.html">Couple Of Happy College Students Graduated</a></h2>
+                                <div class="post-meta date">
+                                    <i class="material-icons">access_time</i> June 13, 2018
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="blog-post">
+                            <a href="single-post.html"><img src="images/bg4.jpg" alt=""></a>
+                            <div class="post-content">
+                                <a class="category" href="#">Government</a>
+                                <h2><a href="single-post.html">Tips to Developing a Quality Discussion</a></h2>
+                                <div class="post-meta date">
+                                    <i class="material-icons">access_time</i> June 13, 2018
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="blog-post">
+                            <a href="single-post.html"><img src="images/bg5.jpg" alt=""></a>
+                            <div class="post-content">
+                                <a class="category" href="#">Design</a>
+                                <h2><a href="single-post.html">Reflections for the Season of Advent</a></h2>
+                                <div class="post-meta date">
+                                    <i class="material-icons">access_time</i> June 13, 2018
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="blog-post">
+                            <a href="single-post.html"><img src="images/bg12.jpg" alt=""></a>
+                            <div class="post-content">
+                                <a class="category" href="#">Business</a>
+                                <h2><a href="single-post.html">It’s Wonderful to see the Friendships that Develop</a></h2>
+                                <div class="post-meta date">
+                                    <i class="material-icons">access_time</i> June 13, 2018
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+<!-- End news section -->
 
 <!-- events-section
     ================================================== -->

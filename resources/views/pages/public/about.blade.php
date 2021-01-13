@@ -34,8 +34,8 @@
                     <img src="https://res.cloudinary.com/afrihowdigitalfiles/image/upload/v1610211997/rfcs/banner_vbqptn.jpg" class="img-fluid" style="height: 440px;" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <div class="article-content">
-                        <i class="fa fa-file-text-o"></i>
+                    <div class="article-content text-center">
+                        <i class="fa fa-info"></i>
                         <h2>About Us</h2>
                         <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide nursery and basic education to children from ages 2 years(tender class) to 12 years(grade 6). The school is blessed with season professional teachers under the leadership of Mrs. Abigael Olajumoke a graduate of University of Lagos with Bachelor in Education(Guidance and Counselling)/Economics.</p>
 
@@ -47,10 +47,10 @@
         <div class="about-article">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="article-content right-align">
+                    <div class="article-content text-center">
                         <i class="fa fa-university"></i>
                         <h2>Our Vision</h2>
-                        <p>To be the preferred education institution.</p>
+                        <p>To be the preferred education institution.</p><br><br>
                         <a class="text-link" href="#">Read More</a>
                     </div>
                 </div>
@@ -62,10 +62,10 @@
         <div class="about-article">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="images/bg28   .jpg" alt="">
+                    <img src="images/bg28.jpg" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <div class="article-content">
+                    <div class="article-content text-center">
                         <i class="fa fa-umbrella"></i>
                         <h2>Our Mission</h2>
                         <p>Producing qualitative education through qualified teachers in a conducive environment to guarentee a secured future for our pupils, their parents and the nation.</p>
