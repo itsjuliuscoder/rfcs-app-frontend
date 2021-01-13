@@ -137,64 +137,54 @@
         </div><br>
         <div class="about-article">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center">
                     <div class="article-content">
-                        <i class="fa fa-file-text-o"></i>
-                        <h2>About Us</h2>
-                        <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide provideprovideprovide provide</p>
-
-                        <a class="text-link" href="#">Read More</a>
+                        <i class="fa fa-group"></i>
+                        <h2>Reconnect with Old Friends</h2>
+                        <p>RFCS Alumni brings together all graduates and old students of the school and makes you recall old memories by meeting your old classmates and friends.</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center">
                     <div class="article-content">
-                        <i class="fa fa-file-text-o"></i>
-                        <h2>About Us</h2>
-                        <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide provideprovideprovide provide</p>
-
-                        <a class="text-link" href="#">Read More</a>
+                        <i class="fa fa-envelope"></i>
+                        <h2>Invitations to Reunion and Social Functions</h2>
+                        <p>The Alumni body occassionally organize social functions and reunion and as a member, you would get an official invitation to participate and network with members of the community. </p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="about-article">
             <div class="row">
-                <div class="col-lg-6">
-                    <div class="article-content right-align">
-                        <i class="fa fa-university"></i>
-                        <h2>Our Vision</h2>
-                        <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide provideprovideprovide provide</p>
-                        <a class="text-link" href="#">Read More</a>
+                <div class="col-lg-6 text-center">
+                    <div class="article-content">
+                        <i class="fa fa-handshake-o"></i>
+                        <h2>Global Professional Network</h2>
+                        <p>Members of our Alumni Community are scattered across the globe. Becoming a member will give you access to build an international professional network.</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center">
                     <div class="article-content">
-                        <i class="fa fa-file-text-o"></i>
-                        <h2>About Us</h2>
-                        <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide provideprovideprovide provide</p>
-
-                        <a class="text-link" href="#">Read More</a>
+                        <i class="fa fa-briefcase"></i>
+                        <h2>Career & Business Mentorship</h2>
+                        <p>Becoming a member of the alumni community, also gives you access to career and business mentorship from our old students that are already working professionals and experts in their individual fields.</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="about-article">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center">
                     <div class="article-content">
-                        <i class="fa fa-file-text-o"></i>
-                        <h2>About Us</h2>
-                        <p>Right Foundation Children School, a bilingual nursery and primary school was established in year 2000 to provide provideprovideprovide provide</p>
-
-                        <a class="text-link" href="#">Read More</a>
+                        <i class="fa fa-building"></i>
+                        <h2>25% Off Tuition Fees for Your Children</h2>
+                        <p>When you become a full member of the Alumni community, you will get a 25% discount off the tuition fees of your children all through their stay in the school.</p>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-center">
                     <div class="article-content">
-                        <i class="fa fa-umbrella"></i>
-                        <h2>Our Mission</h2>
-                        <p>Producing qualitative education through qualified teachers in a conducive environment to guarentee a secured future for our pupils, their parents and the nation.</p>
-                        <a class="text-link" href="#">Read More</a>
+                        <i class="fa fa-usd"></i>
+                        <h2>Refferal Bonuses</h2>
+                        <p>Referring RFCS to your friends or colleagues to enroll their children offers exciting bonus for you as a member of the community.</p><br>
                     </div>
                 </div>
             </div>
